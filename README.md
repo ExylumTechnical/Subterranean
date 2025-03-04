@@ -7,6 +7,7 @@ This game extends the game storyline of Artilliry. You have survived a cataclysm
 
 ## Defenders/Survivors
 The defending team is able to use the environment to activate traps and have a chance to block some damage from an attack. Reduced attack damage.
+
 *Hacker*
 Can use a sneak attack to deal additional damage and lay 5 temporary very low damage traps.
 *Medic*
