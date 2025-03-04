@@ -10,13 +10,16 @@ The defending team is able to use the environment to activate traps and have a c
 
 *Hacker*
 Can use a sneak attack to deal additional damage and lay 5 temporary very low damage traps.
+
 *Medic*
 Has a pack of medkits to use if the character that is being healed is one foruth of their total health or less.There is a minor chance that if using a medkit fails it will be lost.
 
 ## Raiders/Attackers
 All attackers have the chance to regenerate damage after being hit and they all have a chance to push the target back one square.
+
 *Brute*
 Has tha chance to do a power hit to do additional damage to the target.
+
 *Ranged*
 Has a bow with 10 taze arrows that can shock the target upon impact.
 
