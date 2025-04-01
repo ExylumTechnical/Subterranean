@@ -15,7 +15,7 @@ public class Hacker extends Defender {
 			// default Stats for the Artifiacer
 			this.maxHp=20;
 			this.baseChance=.6;
-			this.maxDamage=5;
+			this.maxDamage=3;
 			this.minDamage=0;
 			this.chanceToBlock=.4;
 			this.minBlock=0;
