@@ -1,9 +1,14 @@
 # Subterranean
-Simple cyberpunk/futuristic game written in java.
-Created and Designed by Nicholas Howland
+Simple cyberpunk/futuristic game written in java with a text based GUI
+Created and Designed by Nicholas Howland in 2025
+![subter-main](https://github.com/user-attachments/assets/64aa266c-1f40-4854-800a-daa71ba13b66)
 
 ## Background
-This game extends the game storyline of Artilliry. You have survived a cataclysm by scavanging around the wastes, you are able to choose from three survivors or three attackers and fight a one vs one round.
+This game extends the game storyline of Artilliry. You have survived a cataclysm by scavanging around 
+the wastes, you are able to choose from three survivors or three attackers and fight a one vs one round.
+
+## Sample Gameplay
+![subter-main](https://github.com/user-attachments/assets/a95b5dd7-0577-4868-9f8a-af7cb5212fc0)
 
 ## Defenders/Survivors
 The defending team is able to use the environment to activate traps and have a chance to block some damage from an attack. There are two classes Hacker and Medic.
